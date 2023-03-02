@@ -6,7 +6,7 @@ h11==0.14.0
 idna==3.4
 numpy==1.21.6
 openpyxl==3.1.1
-pandas==1.4.3
+pandas==1.4.4
 pdfkit==1.0.0
 pydantic==1.10.5
 PyMuPDF==1.21.1
